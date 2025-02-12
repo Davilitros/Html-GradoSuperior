@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding-bottom: 220px;
 }
-@media(max-width:1000px){
+@media(max-width: 780px){
   body{
     background-color: red;
   }
